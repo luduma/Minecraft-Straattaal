@@ -13,7 +13,7 @@ Dus bij onenigheid wordt er gestemd door de community.
 ### FAQ | Veelgestelde vragen
 
 #### Hoe kan ik zelf een vertaling toevoegen?
-Het makkelijkste is om op de [GitHub Issues-pagina] (https://github.com/luduma/Minecraft-Straattaal/issues) een nieuwe Issue te maken, met jouw toevoeging in dit formaat:
+Het makkelijkste is om op de [GitHub Issues-pagina](https://github.com/luduma/Minecraft-Straattaal/issues) een nieuwe Issue te maken, met jouw toevoeging in dit formaat:
 ```json
   "entity.minecraft.chest_minecart": "Mijnkar met kist",
   "entity.minecraft.chest_minecart": "Waggie met kist",
