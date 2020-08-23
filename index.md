@@ -26,4 +26,4 @@ Bij community beslist, zal de community besluiten of jouw toevoeging in het proj
 Bij duplicaat is er al iemand met hetzelfde idee als jij.
 
 ### Contact
-Heb je een brandende vraag of wil je om een andere reden contact opnemen dan kan dat via: [contact@ludumadevelopment.com](mailto:contact@ludumadevelopment.com)
+Heb je een brandende vraag of wil je om een andere reden contact opnemen dan kan dat via: [contact@ludumadevelopment.com](mailto:contact@ludumadevelopment.com?SUBJECT=Minecraft Straattaal)
