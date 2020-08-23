@@ -5,6 +5,7 @@ Ons doel is om zoveel mogelijk Nederlandse woorden en zinnen te vertalen naar st
 
 Iedereen kan meehelpen, maar veel straattaalwoorden worden op verschillende mensen geschreven:
 > Atti / attie
+
 > Dokoe / doko / doekkoe
 
 Dus bij onenigheid wordt er gestemd door de community.
