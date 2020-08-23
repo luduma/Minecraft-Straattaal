@@ -1,12 +1,28 @@
-## Welcome to GitHub Pages
+## Welkom bij de Minecraft Straattaal vertaling!
 
-You can use the [editor on GitHub](https://github.com/luduma/Minecraft-Straattaal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Inleiding
+Ons doel is om zoveel mogelijk Nederlandse woorden en zinnen te vertalen naar straattaal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Iedereen kan meehelpen, maar veel straattaalwoorden worden op verschillende mensen geschreven:
+> Atti / attie
+> Dokoe / doko / doekkoe
 
-### Markdown
+Dus bij onenigheid wordt er gestemd door de community.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FAQ | Veelgestelde vragen
+
+#### Hoe kan ik zelf een vertaling toevoegen?
+Het makkelijkste is om op de [GitHub Issues-pagina] (https://github.com/luduma/Minecraft-Straattaal/issues) een nieuwe Issue te maken, met jouw toevoeging in dit formaat:
+```json
+  "entity.minecraft.chest_minecart": "Mijnkar met kist",
+  "entity.minecraft.chest_minecart": "Waggie met kist",
+```
+Eerst het oude woord en daarna het nieuwe woord.
+
+#### Mijn toevoeging heeft een "community beslist" of "duplicaat" label gekregen, wat is dit?
+Bij community beslist, zal de community besluiten of jouw toevoeging in het project komt.
+
+Bij duplicaat is er al iemand met hetzelfde idee als jij.
 
 ```markdown
 Syntax highlighted code block
